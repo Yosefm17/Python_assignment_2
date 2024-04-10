@@ -1,6 +1,3 @@
-# python_assignment_2
-#Student Management System with File-Based Data Storage
-
 
 #Features
     -student registration 
