@@ -46,7 +46,11 @@ This is a Python program for managing student information in a student database.
 - Python 3.x
 ## group members
 1 tajudin ahmed jama      id 1403049
+
 2 yabsira haile serbesa   id 1405091
+
 3 hashim farah aden       id 1405054
+
 4 yosef mulugeta dema     id 1403303
+
 5 firaol arebu  aliy      id 1401968
