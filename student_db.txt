@@ -1,0 +1,4 @@
+mohamed farah,1,m,se,3.5
+yabsira haile,2,f,cs,3.8
+fatima ahmed,4,f,se,3.33
+taaj ahmed jama,3,m,cs,3.0
